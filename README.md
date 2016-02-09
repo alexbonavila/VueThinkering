@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VueThinkering
 
 > A Vue.js project
@@ -22,3 +23,6 @@ npm test
 ```
 
 For more information see the [docs for vueify](https://github.com/vuejs/vueify).
+=======
+# VueThinkering
+>>>>>>> 3ec7e2af75827a107542e2d228b37cc2895f6568
